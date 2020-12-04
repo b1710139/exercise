@@ -1,3 +1,11 @@
 Xin chao co chu
 Xin chao cac ban
+<<<<<<< HEAD
 bai bai
+=======
+Bai bai lan 2 
+
+
+
+
+>>>>>>> kyky3
